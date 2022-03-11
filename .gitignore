@@ -3,7 +3,7 @@ node_modules
 /dist
 # lib
 src
-public
+# public
 
 # local env files
 .env.local
